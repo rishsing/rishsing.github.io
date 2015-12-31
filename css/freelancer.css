@@ -225,6 +225,14 @@ width: 772px;
     border: 0;
 }
 
+.navbar-default .navbar-nav>li>a:hover{
+	color: #F97A76;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-brand:focus{
+	color: #fff;
+}
+
 section {
     padding: 100px 0;
 }
