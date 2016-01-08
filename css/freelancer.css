@@ -141,7 +141,10 @@ footer .footer-below{padding:25px 0;background-color:#233140;}
 .social li a:hover{background-color:#32384d;}
 .social li a:hover i{color:#fff;}
 #contact{background-color:#32384d;}
-.btn-success{color:#ffffff;background-color:#F97A76;border-color:#f97a76;}
+.btn-success{color:#ffffff;background-color:#32384D;border-color:#32384D;}
 .projecttext{font-size:20px;}
 h4.fontcolor{color:#F97A76;}
 h3.fontcolor{color:#F97A76;}
+.btn-asphalt{
+	background-color:#32384D;border-color:#32384D;color:#fff;
+}
