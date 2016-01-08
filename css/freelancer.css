@@ -1,3 +1,17 @@
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#539bd1+0,20c2cb+100,207cca+101 */
+.cover_background{
+background: #539bd1; /* Old browsers */
+
+background: -moz-linear-gradient(left,  #539bd1 0%, #20c2cb 100%, #207cca 101%); /* FF3.6-15 */
+
+background: -webkit-linear-gradient(left,  #539bd1 0%,#20c2cb 100%,#207cca 101%); /* Chrome10-25,Safari5.1-6 */
+
+background: linear-gradient(to right,  #539bd1 0%,#20c2cb 100%,#207cca 101%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#539bd1', endColorstr='#207cca',GradientType=1 ); /* IE6-9 */
+
+}
+
 body{overflow-x:hidden;}
 p{font-size:20px;}
 p.small{font-size:16px;}
