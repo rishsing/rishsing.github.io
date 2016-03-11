@@ -150,21 +150,27 @@ h3.fontcolor{color:#F97A76;}
 	background-color:#32384D;border-color:#32384D;color:#fff;
 }
 .cover-text{
-display:block;text-transform:uppercase;font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:4em;font-weight:700;color:#fff;margin-top:5%;text-align:left;
+display:block;text-transform:uppercase;font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:3.5em;font-weight:700;color:#fff;margin-top:5%;text-align:left;
 }
 .cover-subtext{
-font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:2em;font-weight:200;color:#fff;text-align:left;margin-top:-2%
+font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1.5em;font-weight:200;color:#fff;text-align:left;margin-top:-2%
 }
 .hero {
     position: relative;background-color: #222;width: 100%;height: 675px;margin-top: -5px;z-index: -1;background-size: cover;background-position: center top;overflow: hidden;
 	}
 	.content-heading{
-	font-size:38px;padding-bottom:6px;
+	font-size:32px;padding-bottom:6px;
 	}
 .content-subheading{font-size:24px;}
+.content-subheading1{font-size:20px;text-align:justify;}
 .img-icon{width:35px;}
 
 .btn-primary:hover{
 background-color:#fff !important;
 color:#32384D !important;
 }
+.small-modal{
+	height: 200px;
+	width:300px;
+	background-color:#A8A8A8;
+	display: block; padding-left: 0px;	}
