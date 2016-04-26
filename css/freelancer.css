@@ -52,6 +52,7 @@ hr.seperator11{margin-top:5px;margin-left:1px;margin-bottom:21px;border:2px soli
 .img-responsive2{width:512px;}
 .img-responsive3{width:350px;}
 .img-responsive4{width:772px;}
+.img-responsive5{width:100%;}
 @media(min-width:768px){header .container{padding-top:200px;padding-bottom:100px;}
 header .intro-text .name{font-size:4.75em;}
 header .intro-text .skills{font-size:1.75em;}
@@ -172,8 +173,25 @@ font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1.5
 background-color:#fff !important;
 color:#32384D !important;
 }
-.small-modal{
-	height: 200px;
-	width:300px;
-	background-color:#A8A8A8;
-	display: block; padding-left: 0px;	}
+.small-modal{height: 200px;	width:300px;	background-color:#A8A8A8;display: block; padding-left: 0px;	}
+.module {
+  margin: 10px;
+  width: 100%;
+  height: 700px;
+  float: left;
+  background:url(../img/portfolio/project_photos/empathy_badge/cashiers.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+h4 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 4px 8px;
+  color: white;
+  margin: 0;
+  font: 14px Sans-Serif;
+}
+
